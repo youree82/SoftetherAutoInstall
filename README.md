@@ -10,18 +10,15 @@ and how this thing works? well, this script wget the Softether installer, instal
 
 FAQ:
 
-1. How i can install the Local bridge on the Softether?
-
+1. How i can install the Local bridge on the Softether? / 
 well, i'll upload the Local bridge script soon. =)
 
-2. Only debian? asdfghjkl -_-
-
+2. Only debian? asdfghjkl -_- / 
 Maybe for future i'll create script for CentOS (i don't have CentOS Server for now, maybe next time)
 but here some point that you can try to port Debian to CentOS 
  - use yum instead apt-get (because centos not using apt-get)
  - modify the /etc/init.d/vpnserver files
  - {add some important stuff here}
  
-3. Thanks sir
-
+3. Thanks sir / 
 You're welcome =3
