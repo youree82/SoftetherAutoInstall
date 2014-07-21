@@ -20,5 +20,5 @@ but here some point that you can try to port Debian to CentOS
  - modify the /etc/init.d/vpnserver files
  - {add some important stuff here}
  
-3. Thanks
+3. Thanks sir
 You're welcome =3
