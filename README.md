@@ -17,4 +17,4 @@ Source skrip :
 
 http://blog.lincoln.hk/blog/2013/03/19/softether-on-vps/
 
-(Thanks lincoln ;) )
+(Thanks lincoln)
