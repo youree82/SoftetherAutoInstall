@@ -12,3 +12,9 @@ skrip ini berisi </br>
 <i>2. Instalasi otomatis</i>
 
 <i>{tambahkan hal lain yang berhubungan kesini, gw males ngetik}</i>
+
+Source skrip : 
+
+http://blog.lincoln.hk/blog/2013/03/19/softether-on-vps/
+
+(Thanks lincoln ;) )
