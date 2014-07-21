@@ -1,5 +1,5 @@
 #-------------------------------------------------------
-#Softether Auto Install Script v2
+#Softether Auto Install Script
 #For Debian 7 x64 (i686 will arrive soon)
 #
 #Script Coded by Faishal Akbar
